@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Simi
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science with Python, R and SQL
+- 💞️ I’m looking to collaborate on Data Science projects including Visualisation, Analysis and more
+- 📫 You can reach out to via email on jentrysimisola@gmail.com
